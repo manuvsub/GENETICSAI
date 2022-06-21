@@ -61,3 +61,20 @@ U1F60|pi3x_21.500p1_bw2.24B1.mrf|π/3|21.5|21.500*10us=215.00us|25kHz|56|Figure 
 |UR32|pix_98.000p1_bw15.00B1-C.mrf|π|98|98.000*10us=980.00us|25kHz|377|Figure S16|
 
 
+
+
+Bandwidth can be tuned by changing the RF power, the correponding pulse length is calculated by multiplying the 90 degree pulse length with the pulse length factor for each pulse. 
+
+consider the 'pix_10.800p1_bw1.49B1.mrf' shape,
+
+for RF amplitude 25kHz (=> 90 pulse length = 10us), pulse length = 10.8*10us = 108 us 
+
+for RF amplitude 12.5kHz (=> 90 pulse length = 20us), pulse length = 10.8*20us = 216 us 
+ 
+
+------------------------------------------------------------------------------
+ 
+
+Copyright & License Statement
+
+RF pulse shapes are copyrighted by Regents of the University of Minnesota and the software for generating RF shapes covered by US patent 11,221,384. Regents of the University of Minnesota will license the use of RF shapes solely for educational and research purposes by non-profit institutions and US government agencies only. For other proposed uses, contact umotc@umn.edu. The software may not be sold or redistributed without prior approval. One may make copies of the software for their use provided that the copies, are not sold or distributed, are used under the same terms and conditions. As unestablished research software, this code is provided on an "as is'' basis without warranty of any kind, either expressed or implied. The downloading, or executing any part of this software constitutes an implicit agreement to these terms. These terms and conditions are subject to change at any time without prior notice.
