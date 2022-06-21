@@ -1,0 +1,12 @@
+# GENETICSAI
+
+NMR pulse sequences and RF shapes for the experiments in PNAS-nexus(2022)
+
+Cite Reference articles @  PNAS-nexus(2022)
+
+The script and algorithms are patented @ https://patentcenter.uspto.gov/#!/applications/16861506
+
+|Short Name | Full Shape Name| Operation Type  |  Pulse Length factor | Pulse Length |   Amplitude | Bandwidth | reference  PNAS-nexus(2022)|
+| ----------| ------------   | -------------   | -------------        | ------------ | ----------- | --------- | -------------------------- |
+
+
