@@ -6,7 +6,7 @@ Cite Reference articles @  PNAS-nexus(2022)
 
 The script and algorithms are patented @ https://patentcenter.uspto.gov/#!/applications/16861506
 
-|Short Name | Full Shape Name| Operation Type  |  Pulse Length factor | Pulse Length |   Amplitude | Bandwidth | reference  PNAS-nexus(2022)|
+|Short Name | Full Shape Name| Operation Type  |  Pulse Length factor | Pulse Length |   Amplitude  | Bandwidth (kHz) | reference  PNAS-nexus(2022)|
 | ----------| ------------   | -------------   | -------------        | ------------ | ----------- | --------- | -------------------------- |
 U1F60|pi3x_21.500p1_bw2.24B1.mrf|π/3|21.5|21.500*10us=215.00us|25kHz|56|Figure 1|
 |U1F90|pi2x_10.600p1_bw1.07B1.mrf|π/2|10.6|10.600*10us=106.00us|25kHz|27|Figure 1|
@@ -35,27 +35,27 @@ U1F60|pi3x_21.500p1_bw2.24B1.mrf|π/3|21.5|21.500*10us=215.00us|25kHz|56|Figure 
 |UR19|pix_136.000p1_bw20.25B1.mrf|π|136|136.000*10us=1360.00us|25kHz|506|Figure 3|
 |UR20|pix_160.000p1_bw22.65B1.mrf|π|160|160.000*10us=1600.00us|25kHz|566|Figure 3|
 |UR21|pix_150.000p1_bw29.95B1.mrf|π|150|150.000*10us=1500.00us|25kHz|749|Figure 3|
-|U1F90|pi2x_140.000p1_bw30.14B1.mrf|π/2|140|140.000*10us=1400.00us|25kHz|754|Figure 3|
-|U1F90|pi2x_rf0.25_11.250p1_bw1.9B1.mrf|π/2|11.25|11.250*10us=112.50us|25kHz|48|Figure 4|
-|U1F90|pi2x_rf0.25_24.428p1_bw2.23B1.mrf|π/2|24.428|24.428*10us=244.28us|25kHz|56|Figure 4|
+|U4F90|pi2x_140.000p1_bw30.14B1.mrf|π/2|140|140.000*10us=1400.00us|25kHz|754|Figure 3|
+|U5F90|pi2x_rf0.25_11.250p1_bw1.9B1.mrf|π/2|11.25|11.250*10us=112.50us|25kHz|48|Figure 4|
+|U6F90|pi2x_rf0.25_24.428p1_bw2.23B1.mrf|π/2|24.428|24.428*10us=244.28us|25kHz|56|Figure 4|
 |UR22|pix_rf0.25_12.186p1_bw1.23B1.mrf|π|12.186|12.186*10us=121.86us|25kHz|31|Figure 4|
 |UR23|pix_rf0.25_25.491p1_bw2.51B1.mrf|π|25.491|25.491*10us=254.91us|25kHz|63|Figure 4|
 |EIN1|z2iyAz2iz_16.100p1_bw1.19B1.mrf|z2iyAz2iz|16.1|16.100*10us=161.00us|25kHz|---|Figure 5|
 |EID1|z2iyAz2z_9.600p1_bw1.13B1.mrf|z2iyAz2z|9.6|9.600*10us=96.00us|25kHz|---|Figure 5|
 |INID|z2izAz2z_15.500p1_bw1.13B1.mrf|z2izAz2z|15.5|15.500*10us=155.00us|25kHz|---|Figure 5|
 |IN3|z2iz_9.600p1_bw1.13B1.mrf|z2iz|9.6|9.600*10us=96.00us|25kHz|---|Figure 5|
-|U1F90|pi2x_rf0.90_28.401p1_bw0.69B1.mrf|π/2|28.401|28.401*10us=284.01us|25kHz|17|Figure 6/Figure S17|
+|U7F90|pi2x_rf0.90_28.401p1_bw0.69B1.mrf|π/2|28.401|28.401*10us=284.01us|25kHz|17|Figure 6/Figure S17|
 |UR24|pix_rf0.90_34.001p1_bw0.94B1.mrf|π|34.001|34.001*10us=340.01us|25kHz|24|Figure 6/Figure S17|
-|U1F90|pi2x_19.000p1_bw2.39B1.mrf|π/2|19|19.000*10us=190.00us|25kHz|60|Figure S5|
+|U8F90|pi2x_19.000p1_bw2.39B1.mrf|π/2|19|19.000*10us=190.00us|25kHz|60|Figure S5|
 |UR25|pix_18.100p1_bw2.03B1.mrf|π|18.1|18.100*10us=181.00us|25kHz|51|Figure S6|
 |UR26|pix_rf0.00_136.000p1_bw19.83B1.mrf|π|136|136.000*10us=1360.00us|25kHz|496|Figure S7|
 |UR27|pix_rf0.10_9.066p1_bw1.1B1.mrf|π|9.066|9.066*10us=90.66us|25kHz|28|Figure S7|
 |UR28|pix_rf0.20_12.441p1_bw1.42B1.mrf|π|12.441|12.441*10us=124.41us|25kHz|36|Figure S7|
 |UR29|pix_rf0.20_18.934p1_bw2.29B1.mrf|π|18.934|18.934*10us=189.34us|25kHz|57|Figure S7|
 |EX1|Ex_44.000p1_bw22.55B1.mrf|Excitation|100.5|100.5*10us=1005us|25 kHz|564| Figure S15|
-|U1F90|pi2x_100.500p1_bw14.81B1-C.mrf|π/2|100.5|100.500*10us=1005.00us|25kHz|370|Figure S16|
-|U1F90|pi2x_22.500p1_bw3.92B1-N.mrf|π/2|22.5|22.500*10us=225.00us|25kHz|98|Figure S16|
-|U1F90|pi2x_35.000p1_bw6.00B1-H.mrf|π/2|35|35.000*10us=350.00us|25kHz|150|Figure S16|
+|U9F90|pi2x_100.500p1_bw14.81B1-C.mrf|π/2|100.5|100.500*10us=1005.00us|25kHz|370|Figure S16|
+|U10F90|pi2x_22.500p1_bw3.92B1-N.mrf|π/2|22.5|22.500*10us=225.00us|25kHz|98|Figure S16|
+|U11F90|pi2x_35.000p1_bw6.00B1-H.mrf|π/2|35|35.000*10us=350.00us|25kHz|150|Figure S16|
 |UR30|pix_23.900p1_bw4.00B1-N.mrf|π|23.9|23.900*10us=239.00us|25kHz|99|Figure S16|
 |UR31|pix_35.932p1_bw6.00B1-H.mrf|π|35.932|35.932*10us=359.32us|25kHz|148|Figure S16|
 |UR32|pix_98.000p1_bw15.00B1-C.mrf|π|98|98.000*10us=980.00us|25kHz|377|Figure S16|
